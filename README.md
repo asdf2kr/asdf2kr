@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-<br>
-<br>
+
 <p align="justify">
   <a href="https://github.com/asdf2kr/github-readme-stats">
     <img
